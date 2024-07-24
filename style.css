@@ -1,8 +1,8 @@
 body {
-    background-color: #add8e6; /* Light blue background color */
+    background-color: #fffaf0; /* Warm white color */
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    color: #333;
+    padding: 20px;
 }
 
 h1 {
