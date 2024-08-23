@@ -26,13 +26,20 @@ Released 13 Casino Games as a developer in a span of 2 years.
 
 ## <span style="color: #4682b4;">Recently Developed Game</span>
 
-### [Catch The Flag Game](https://github.com/vmanoj1604/CatchTheFlag)
+### [Catch The Flag Game]  : (https://github.com/vmanoj1604/CatchTheFlag)
 The game character tries to catch the flag on the other side while an obstacle runs in between. On touching the obstacle, the player loses. If the player takes the flag and reaches his base, then he wins.
 
 ![Catch The Flag] 
 
 https://github.com/user-attachments/assets/d24e06eb-ca28-4807-90b6-9807336181a6
 
+
+### [AR Solar System]  :
+An AR application where by simply scanning images with your mobile camera, vivid 3D models of planets come to life in your real-world environment. Each model is accompanied by immersive audio explanations, offering a rich, interactive learning experience that makes understanding the cosmos both engaging and fun.
+
+![ARSolarSystem] 
+
+https://github.com/user-attachments/assets/4eb8b269-0fe3-4fc5-99fd-44af90ffecd3
 
 
 ## <span style="color: #4682b4;">Experimented Developing the Following Games</span>
