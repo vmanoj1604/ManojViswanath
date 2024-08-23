@@ -38,6 +38,13 @@ An AR application where by simply scanning images with your mobile camera, vivid
 https://github.com/user-attachments/assets/4eb8b269-0fe3-4fc5-99fd-44af90ffecd3
 
 
+### [Classroom Community]  :
+A student learning application where the student logs in and can access lessons. Each lesson carries 20 credits, and upon completion, 20 credits are added to the total credits. Additional features, such as Subject-Wise Analysis and a Leaderboard, are provided to help students understand their performance.
+
+
+https://github.com/user-attachments/assets/322b754b-bc81-4248-abf0-bb6d678631d1
+
+
 ## <span style="color: #4682b4;">Experimented Developing the Following Games</span>
 
 ### 1. Delivery Driver
