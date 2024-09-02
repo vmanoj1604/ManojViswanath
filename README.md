@@ -37,6 +37,17 @@ An AR application where by simply scanning images with your mobile camera, vivid
 
 https://github.com/user-attachments/assets/4eb8b269-0fe3-4fc5-99fd-44af90ffecd3
 
+### [AR Workout]  :
+Transform your workouts with our AR fitness app: Scan images to see 3D models demonstrating exercises in real-time, while immersive videos and audio guides explain the benefits and correct techniques for optimal results.
+
+https://github.com/user-attachments/assets/9a4cd42a-f5c1-4603-90a1-b3561333dfec
+
+
+### [Markerless AR Game]  :
+Experience a markerless AR adventure where ghosts roam freely in your real world. Collect points as you encounter them, with each capture boosting your score in this immersive and interactive experience.
+
+https://github.com/user-attachments/assets/63d56ba7-4987-40c5-bd34-7068cbf383b1
+
 
 ### [Classroom Community]  :
 A student learning application where the student logs in and can access lessons. Each lesson carries 20 credits, and upon completion, 20 credits are added to the total credits. Additional features, such as Subject-Wise Analysis and a Leaderboard, are provided to help students understand their performance.
